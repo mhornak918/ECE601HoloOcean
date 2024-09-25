@@ -15,5 +15,7 @@ At Robodivers, we provide a cross-industry solution to the issue of underwater i
     &emsp;"As a navy shipyard operator, I want to be able to analyze the integrity of the hulls of ships coming into and out of port"<br/>
     &emsp;"As a submarine captain, I want to be able to inspect the hull of the submarine without surfacing"<br/><br/>
 
+**Minimum Value Product:** A robot capable of traversing a submerged structure and displaying applicable sonar data to the user.<br/>
+
 **Citations of Papers:** <br/>
 
