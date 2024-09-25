@@ -1,6 +1,7 @@
 # ECE601HoloOcean
 
 **Project Definition:** <br/>
+At Robodivers, we provide a cross-industry solution to the issue of underwater infrastructure inspection. Our product boosts safety, cuts cost, and is easy to use for your underwater infrastructure inspection needs. Unlike our competitors, who only provide robots capable of inspecting one type of structure, we offer a flexible solution for gathering data on a variety of structures.<br/>
 
 **User Stories:** <br/><br/>
   **Energy Companies:** <br/>
