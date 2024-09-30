@@ -19,8 +19,8 @@ At Robodivers, we provide a cross-industry solution to the issue of underwater i
 
 **Citations of Papers:** <br/>
 
-Huy, D. Q., Sadjoli, N., Azam, A. B., Elhadidi, B., Cai, Y., & Seet, G. (2023). Object perception in underwater <br/> environments: a survey on sensors and sensing methodologies. Ocean Engineering, 267, 113202. <br/> https://doi.org/10.1016/j.oceaneng.2022.113202 <br/>
+Huy, D. Q., Sadjoli, N., Azam, A. B., Elhadidi, B., Cai, Y., & Seet, G. (2023). Object perception in underwater <br/> environments: a survey on sensors and sensing methodologies. *Ocean Engineering*, 267, 113202. <br/> https://doi.org/10.1016/j.oceaneng.2022.113202 <br/>
 <br/>
 
-Potokar, E., Lay, K., Norman, K., Benham, D., Neilsen, T. B., Kaess, M., & Mangelson, J. G. (2022). HoloOcean: Realistic <br/> Sonar Simulation. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). <br/>https://doi.org/10.1109/iros47612.2022.9981119 <br/>
+Potokar, E., Lay, K., Norman, K., Benham, D., Neilsen, T. B., Kaess, M., & Mangelson, J. G. (2022). HoloOcean: Realistic <br/> Sonar Simulation. *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. <br/>https://doi.org/10.1109/iros47612.2022.9981119 <br/>
 
