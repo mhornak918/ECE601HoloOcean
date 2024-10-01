@@ -23,4 +23,13 @@ Huy, D. Q., Sadjoli, N., Azam, A. B., Elhadidi, B., Cai, Y., & Seet, G. (2023). 
 <br/>
 
 Potokar, E., Lay, K., Norman, K., Benham, D., Neilsen, T. B., Kaess, M., & Mangelson, J. G. (2022). HoloOcean: Realistic <br/> Sonar Simulation. *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. <br/>https://doi.org/10.1109/iros47612.2022.9981119 <br/>
+<br/>
+
+K. Xie, J. Yang, and K. Qiu, “A dataset with multibeam forward-looking sonar for underwater object detection,” Scientific Data, vol. 9, no. 1, Dec. 2022. 
+<br/>doi:10.1038/s41597-022-01854-w <br/>
+<br/>
+
+E. Potokar, S. Ashford, M. Kaess, and J. G. Mangelson, “HoloOcean: An underwater robotics simulator,” 2022 International Conference on Robotics and Automation (ICRA), May 2022. 
+<br/> doi:10.1109/icra46639.2022.9812353 <br/>
+
 
