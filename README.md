@@ -23,8 +23,7 @@ D. Q. Huy, N. Sadjoli, A. B. Azam, B. Elhadidi, Y. Cai, and G. Seet, “Object p
 
 E. Potokar et al., “HoloOcean: Realistic Sonar Simulation,” *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, <br/> Oct. 2022, doi: https://doi.org/10.1109/iros47612.2022.9981119. <br/>
 
-K. Xie, J. Yang, and K. Qiu, “A dataset with multibeam forward-looking sonar for underwater object detection,” Scientific Data, vol. 9, no. 1, Dec. 2022. 
-<br/>doi:10.1038/s41597-022-01854-w <br/>
+K. Xie, J. Yang, and K. Qiu, “A dataset with multibeam forward-looking sonar for underwater object detection,” Scientific Data, vol. 9, no. 1, Dec. 2022. doi:10.1038/s41597-022-01854-w <br/>
 <br/>
 
 E. Potokar, S. Ashford, M. Kaess, and J. G. Mangelson, “HoloOcean: An underwater robotics simulator,” 2022 International Conference on Robotics and Automation (ICRA), May 2022. 
