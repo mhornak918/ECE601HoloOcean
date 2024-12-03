@@ -17,8 +17,16 @@ At Robodivers, we provide a cross-industry solution to the issue of underwater i
 
 **Minimum Value Product:** A robot capable of traversing a submerged structure and displaying applicable sonar data to the user.<br/>
 
-How to Run:
-Open AUV_Model.slx in MATLAB
+**How to Run:**
+- Download Unreal Editor 5
+- Download XXXXXXXX 
+- Open AUV_Model.slx in MATLAB
+- Open the Simulation Subsystem
+- Double-click the Simulation 3D Scene Configuration Block
+- Ensure Scene Source is set to Unreal Editor
+- Under the Project section, browse to the Unreal.uproject file
+- Click Open Unreal Editor
+- 
 
 
 **Citations of Papers:** <br/>
