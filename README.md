@@ -18,15 +18,19 @@ At Robodivers, we provide a cross-industry solution to the issue of underwater i
 **Minimum Value Product:** A robot capable of traversing a submerged structure and displaying applicable sonar data to the user.<br/>
 
 **How to Run:**
-- Download Unreal Editor 5
-- Download XXXXXXXX 
+- Download Unreal Editor 5 (verify minimum computer specs before running)
+- Unzip Unreal Project
 - Open AUV_Model.slx in MATLAB
 - Open the Simulation Subsystem
 - Double-click the Simulation 3D Scene Configuration Block
 - Ensure Scene Source is set to Unreal Editor
-- Under the Project section, browse to the Unreal.uproject file
-- Click Open Unreal Editor
-- 
+- Under the Project section, browse and select the UWRobot53.uproject file
+- Click Open Unreal Editor within the Simulation 3D Scene Configuration Block (Unreal can ONLY be opened through MATLAB, cosimulation will not work if the project is opened through Unreal first)
+- Open level SimAttempt1
+- Click Run and MATLAB and wait for it to load
+- Click the green arrow in the Unreal window
+- You are now able to navigate around the simulation and see the robot scanning the dam
+- Lidar data can be viewed by double clicking the Point Cloud Viewer in MATLAB
 
 
 **Citations of Papers:** <br/>
