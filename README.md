@@ -27,7 +27,7 @@ At Robodivers, we provide a cross-industry solution to the issue of underwater i
 - Under the Project section, browse and select the UWRobot53.uproject file
 - Click Open Unreal Editor within the Simulation 3D Scene Configuration Block (Unreal can ONLY be opened through MATLAB, cosimulation will not work if the project is opened through Unreal first)
 - Open level SimAttempt1
-- Click Run and MATLAB and wait for it to load
+- Click Run in MATLAB and wait for it to load
 - Click the green arrow in the Unreal window
 - You are now able to navigate around the simulation and see the robot scanning the dam
 - Lidar data can be viewed by double clicking the Point Cloud Viewer in MATLAB
