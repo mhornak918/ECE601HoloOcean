@@ -17,6 +17,10 @@ At Robodivers, we provide a cross-industry solution to the issue of underwater i
 
 **Minimum Value Product:** A robot capable of traversing a submerged structure and displaying applicable sonar data to the user.<br/>
 
+How to Run:
+Open AUV_Model.slx in MATLAB
+
+
 **Citations of Papers:** <br/>
 
 D. Q. Huy, N. Sadjoli, A. B. Azam, B. Elhadidi, Y. Cai, and G. Seet, “Object perception in underwater environments: a <br/> survey on sensors and sensing methodologies,” *Ocean Engineering*, vol. 267, p. 113202, Jan. 2023, doi: <br/> https://doi.org/10.1016/j.oceaneng.2022.113202. <br/>
