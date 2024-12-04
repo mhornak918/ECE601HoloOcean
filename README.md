@@ -18,7 +18,7 @@ At Robodivers, we provide a cross-industry solution to the issue of underwater i
 **Minimum Value Product:** A robot capable of traversing a submerged structure and displaying applicable sonar data to the user.<br/>
 
 **How to Run:**
-- Download Unreal Editor 5 (verify minimum computer specs before running)
+- Download Unreal Editor v5.3 (verify minimum computer specs before running)
 - Unzip Unreal Project
 - Open AUV_Model.slx in MATLAB
 - Open the Simulation Subsystem
